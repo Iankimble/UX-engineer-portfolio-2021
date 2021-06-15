@@ -1,0 +1,61 @@
+.nav_bar a{ 
+   text-decoration: none;
+}
+
+.primary_buttons{
+   background-color: coral;
+   border: none;
+   padding: 10px 20px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   margin: 4px 2px;
+   cursor: pointer;
+   border-radius: 500px;
+}
+
+.project_card_buttons{
+   background-color: coral;
+   border: none;
+   padding: 10px 20px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   margin: 4px 2px;
+   cursor: pointer;
+   border-radius: 500px;
+   margin-left: 30px;
+   margin-right: 30px;
+}
+
+.work_card{
+   margin: 12px; 
+    transition: all .5s ease;
+}
+
+.work_card:hover{
+   margin: 12px; 
+   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.form{
+   padding: 10px;
+   border: solid 2px;
+   border-radius: 30px;
+}
+
+.form_group{   
+   padding-left:15px;
+   padding-right:15px;
+}
+
+.tabOptions{
+text-decoration: none;
+}
+
+.tabOptions:hover{
+  text-decoration: none; 
+}
+
+/* UX CSS*/
+
